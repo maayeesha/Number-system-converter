@@ -1,2 +1,2 @@
 # Number-system-converter
-Number system converter using C language
+This is a simple program using C language for converting number systems.
